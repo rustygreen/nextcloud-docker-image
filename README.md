@@ -5,6 +5,7 @@ An extension of the [official Nextcloud Docker image](https://hub.docker.com/_/n
 * Updates packages.
 * Installs [GNU nano](https://www.nano-editor.org/download.php).
 * Installs [ffmpeg](https://ffmpeg.org/) package so Nextcloud can support streaming videos.
+* Installs [imagemagick](https://imagemagick.org/) package so Nextcloud can support additional image manipulation.
 
 Docker image: https://hub.docker.com/r/rustygreen/nextcloud
 
